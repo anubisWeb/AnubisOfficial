@@ -2589,6 +2589,41 @@ img {
   margin-top: 2em;
 }
 
+.rich-text-s p {
+  margin-bottom: 0.7cm;
+}
+
+.rich-text-s li {
+  margin-bottom: .3em;
+  padding-left: 15px;
+}
+
+.rich-text-s h4 {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.rich-text-s figcaption {
+  opacity: .7;
+  text-align: left;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.rich-text-s img {
+  height: 30vw;
+  margin-top: 1.5vw;
+}
+
+.rich-text-s h2 {
+  margin-bottom: 1em;
+}
+
+.rich-text-s h3 {
+  margin-top: 1em;
+}
+
 .grid-template-info {
   grid-column-gap: 25px;
   grid-row-gap: 50px;
