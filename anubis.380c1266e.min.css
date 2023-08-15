@@ -5795,8 +5795,8 @@ img {
 }
 
 .photo-blog-author {
-  width: 120px;
-  height: 120px;
+  width: auto;
+  height: auto;
   object-fit: cover;
   border-radius: 200px;
 }
@@ -7063,7 +7063,7 @@ img {
   }
 
   .photo-blog {
-    height: 250px;
+    height: auto;
   }
 
   .arrow-projects-iii {
@@ -7859,7 +7859,7 @@ img {
   }
 
   .photo-blog {
-    height: 26vw;
+    height: auto;
   }
 
   .photo-about-i {
@@ -8753,7 +8753,7 @@ img {
   }
 
   .photo-blog, .photo-about-i {
-    height: 55vw;
+    height: auto;
     max-height: 353px;
   }
 
